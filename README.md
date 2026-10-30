@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6D28D9&height=220&section=header&text=Kalkidan%20Wondimagegnehu&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=60&descSize=15" width="100%" />
+<img src="assets/banner.png" width="100%" />
 
 # Hey, I'm Kalkidan 👋
 
@@ -79,8 +80,6 @@ Exploring astronomy through technology, intelligent identification and interacti
 ### 🏨 Alexandria
 A luxury hotel website experience with modern design and user-focused interfaces.
 
-### 🎨 Sticker Studio
-A digital sticker marketplace designed for Ethiopian customers.
 
 ---
 
